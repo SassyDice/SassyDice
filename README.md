@@ -9,6 +9,6 @@ while(noSuccess)
                 sleep();
                 repeat();
         }
-        if else(Dead)
+        else if(Dead)
                 break();
 }
