@@ -10,5 +10,5 @@ while(noSuccess)
                 repeat();
         }
         else if(Dead)
-                break();
+                break;
 }
